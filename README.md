@@ -1,6 +1,7 @@
 # SDLC Activity Based Learning
 ![demo](https://zybermedia.net/wp-content/uploads/2019/07/banking.jpg)
-## Folder structure
+# BANK MANAGEMENT SYSTEM
+## Table of contents
 |Folder|Description|
 |:---:|:---:|
 |1_Requirements|Basic needs of the system|
