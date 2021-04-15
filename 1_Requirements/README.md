@@ -6,6 +6,8 @@ Bank management system can be easily used by everyone to perform various actions
 * Secure
 * Encrypted
 * Accessible from anywhere
+# Cost
+  As far as the project is well built and all the requirements met the cost can be varied according to the market.
 # 4W and 1H
 - Who:
   Anyone who wants to create account or perform operations on existing account can use.
