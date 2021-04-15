@@ -10,3 +10,4 @@
 |4_TestPlanAndOutput|Documents with test cases and output|
 |5_Report|Review of the system|
 |6_ImagesAndVideos|Documents to demonstrate|
+![over](https://github.com/Chinmayi-bc/LnT__STEPin__mini__project/2_Architecture/overview.png)
