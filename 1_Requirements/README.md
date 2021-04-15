@@ -7,15 +7,15 @@ Bank management system can be easily used by everyone to perform various actions
 * Encrypted
 * Accessible from anywhere
 # 4W and 1H
-- Who
+- Who:
   Anyone who wants to create account or perform operations on existing account can use.
-- What
+- What:
   To perform bank operations with less time and effort.
-- When
+- When:
   Can be used anytime.
-- Where
+- Where:
   Can be used from anywhere.
-- How
+- How:
   Very friendly to use you just need to know the password to login.
 # High level requirements
 |ID|Description|
